@@ -7,4 +7,4 @@ Live At : https://a2-oj-ladders.vercel.app/
 
 ## Screens
 
-<img src="./images/1.jpg" width="80%" />
+<img src="./images/1.jpg" width="60%" />
